@@ -1,0 +1,196 @@
+id: c4b3032f12ba4763b3c44da82cfb7ae5
+annotation_type: Segment
+revision: '00001'
+annotations:
+  b380eaf1637a459a808d3b0e725ee244:
+    span:
+      start: 0
+      end: 68
+  f15504fb6bc84a5f98731d7594f29e8f:
+    span:
+      start: 70
+      end: 153
+  46ae70b4e8dc415a86006180848decaf:
+    span:
+      start: 155
+      end: 317
+  71a9065a66474e8a814ba19f41521807:
+    span:
+      start: 319
+      end: 362
+  5ff82766ea354097bc73b4d0468e00f4:
+    span:
+      start: 364
+      end: 440
+  3e622bc8cc154affa2d1c9441e828c72:
+    span:
+      start: 442
+      end: 500
+  f11bfe0e92014c47afdd85d4fad34f30:
+    span:
+      start: 502
+      end: 534
+  c261bdba59ab4fa3b94e7313c648b3cd:
+    span:
+      start: 536
+      end: 626
+  82cce4ddea6f4fa79e2d8bce935f7208:
+    span:
+      start: 628
+      end: 699
+  6e661c66a8ae4b87af640a1430920176:
+    span:
+      start: 701
+      end: 802
+  96e70298f3ba47d2ae7894ce60a7697f:
+    span:
+      start: 804
+      end: 846
+  bbe2629c3e4049c68eb9dc88540dc72d:
+    span:
+      start: 848
+      end: 930
+  1c0d6ccfeee94c49b4ccaa58f6b6e6ad:
+    span:
+      start: 932
+      end: 1014
+  a8aed55ee75d4c748b0aa158a13739d3:
+    span:
+      start: 1016
+      end: 1132
+  3639517174714a8fbef808f9181a3066:
+    span:
+      start: 1134
+      end: 1192
+  ed8dd6441eb64525bf92992ba60bf39c:
+    span:
+      start: 1194
+      end: 1242
+  d9d09a3912084c8fbbd03ef325b3628e:
+    span:
+      start: 1244
+      end: 1316
+  b746ffc1077544fd990753ec74eba792:
+    span:
+      start: 1318
+      end: 1367
+  024b85fbe9564ec593871ba9c26e2a28:
+    span:
+      start: 1369
+      end: 1404
+  acc09ebf786f4345b87b4d671788f2ba:
+    span:
+      start: 1406
+      end: 1433
+  e6f6e047ea994bb5b9fc1233b9c835a5:
+    span:
+      start: 1435
+      end: 1517
+  3e1206417b1b45be9bd8da12feb11721:
+    span:
+      start: 1519
+      end: 1580
+  e0f4772070bd48d6863d7d836a850765:
+    span:
+      start: 1582
+      end: 1638
+  099dcdf107ad42aea7ed0aa6e28b8c8c:
+    span:
+      start: 1640
+      end: 1702
+  9a166ec9de70491784a510860164ccc7:
+    span:
+      start: 1704
+      end: 1740
+  37af200be442462b9a46d49b8fa326cb:
+    span:
+      start: 1742
+      end: 1782
+  b1904272bddf406eb0aa67b7c57dfffc:
+    span:
+      start: 1784
+      end: 1835
+  65a7a5a812234998aeb25548ed2c6c90:
+    span:
+      start: 1837
+      end: 1933
+  69d4a5c120034445a753ff008d397b2b:
+    span:
+      start: 1935
+      end: 2040
+  8a6495a0a2d1436ca51bc3d8d87c5ab5:
+    span:
+      start: 2042
+      end: 2132
+  7a3da6d526d741abbd57e985cce2001f:
+    span:
+      start: 2134
+      end: 2196
+  30e48b1e5eba474bb7da99e567359580:
+    span:
+      start: 2198
+      end: 2249
+  0a3d9aceb0c0498d9be795adbc87fe00:
+    span:
+      start: 2251
+      end: 2333
+  59c3ac52ed6742439bb55c6a2b905d5a:
+    span:
+      start: 2335
+      end: 2452
+  466378eb7e6b4e20926b51b2c14af7f7:
+    span:
+      start: 2454
+      end: 2555
+  993f4bff506746779187661b10965f69:
+    span:
+      start: 2557
+      end: 2613
+  ba13aa3895ac4a389a7449c29db86a66:
+    span:
+      start: 2615
+      end: 2643
+  d0e1b0ed2e0047c29bb80125a0d7b727:
+    span:
+      start: 2645
+      end: 2674
+  47c1b924aeb2495a9c13d5169655bc23:
+    span:
+      start: 2676
+      end: 2722
+  d20d59b3fa3443f787baaad116a4e5ca:
+    span:
+      start: 2724
+      end: 2820
+  ab06744c85da477f8142b3032a25ee40:
+    span:
+      start: 2822
+      end: 2906
+  61a5833afd994a7596f33c5ed3921155:
+    span:
+      start: 2908
+      end: 2991
+  ac2889c650ba49d2a856dab251366c23:
+    span:
+      start: 2993
+      end: 3085
+  8629689c7e2042a6a2cdf64d93e0b32f:
+    span:
+      start: 3087
+      end: 3132
+  0520cc0b270d4619b914a8850460a236:
+    span:
+      start: 3134
+      end: 3206
+  159bb613f7c54faebeeb353b5d53c40e:
+    span:
+      start: 3208
+      end: 3285
+  d56773df92834b658531a098491dd40e:
+    span:
+      start: 3287
+      end: 3314
+  c34bb42d045847939cc15af63fb1d86b:
+    span:
+      start: 3316
+      end: 3402

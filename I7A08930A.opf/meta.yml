@@ -1,0 +1,26 @@
+id: I7A08930A
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:21:24.206261+00:00
+last_modified: 2022-12-15 07:21:24.206266+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-036
+  eft-text-version: 1.0.7 2021
+  title: Toh_336-The_Rite_for_the_Protocols_Associated_with_Carrying_the_Ringing_Staff-v2
+bases:
+  '4491':
+    source_metadata: null
+    order: 1
+    base_file: 4491.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
